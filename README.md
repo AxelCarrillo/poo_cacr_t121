@@ -1,2 +1,7 @@
-# poo_cacr_ti21
-Repositorio para almacenar las practicas de la materia de Programación Orientada a Objetos
+#Curso de Programacion Orientada a Objetos
+
+## Indice 
+
+|No|Archivo|Descripcion|
+|--|--|--|
+|1.|programa0.py|Hola mundo en python|
