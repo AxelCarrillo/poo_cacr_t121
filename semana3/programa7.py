@@ -1,4 +1,9 @@
-
+"""
+   programa7.py
+   Nombre. Axel CR
+   Fecha: 31/01/2023
+   Descripcion: Calcular el Area y Perimetro de un circulo y Cuadrado
+"""
 #AREA Y PERIMETRO DEL CIRCULO
 print ("Area y Perimetro de un Circulo") #Imprime un texto para el usuario
 print("") #ESPACIO POR ESTETICA
