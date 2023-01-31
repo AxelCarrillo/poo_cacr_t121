@@ -1,11 +1,15 @@
 
+"""
+Carlos Axel Carrillo Rocha 
+"""
 print ("Area y Perimetro de un Triangulo")
-ar= float(input("Digita el tamaño del lado: "))
-bas= float(input("Digita el tamaño de la base: "))
-h= float(input("Digita el tamaño de la altura: "))
 
-area= (bas*h)/2
-peri = ar*3
+base= float(input("Digita el tamaño de la base: ")) #Usuario Digitara el tamaño de la base
+area= float(input("Digita el tamaño del lado: ")) #Usuario digitara el tamaño de los lados
+altura= float(input("Digita el tamaño de la altura: ")) #Usuario Digitara la altura
 
-print("El área del triangulo es: ", area)
-print("El perímetro del triangulo es: ", peri)
+area= (base*altura)/2 #Proceso para sacar el area con los datos ingresados de base y altura
+peri = area*3 #Proceso para sacar el perimetro con los datos de el Area
+
+print("El área del triangulo es: ", area) #Imprimira el Area, ya realizado el proceso anterior
+print("El perímetro del triangulo es: ", peri) #Imprimira el Perimetro, ya realzado el proceso anterior
