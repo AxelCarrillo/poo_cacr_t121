@@ -4,7 +4,8 @@
    Fecha: 31/01/2023
    Descripcion: Calcular el Area y Perimetro de un circulo y Cuadrado
 """
-#AREA Y PERIMETRO DEL CIRCULO
+
+#---------------------------------------AREA Y PERIMETRO DEL CIRCULO--------------------------------------------
 print ("Area y Perimetro de un Circulo") #Imprime un texto para el usuario
 print("") #ESPACIO POR ESTETICA
 diametro= float(input("Digita el diametro de tu circulo: ")) #AREA Y PERIMETRO DEL CIRCULO
@@ -17,7 +18,7 @@ print ("El perimetro de un circulo de {} de radio es {}".format(diametro,peri_ci
 print("") #ESPACIO POR ESTETICA
 print("") #ESPACIO POR ESTETICA
 
-#AREA Y PERIMETRO CUADRADO
+#-----------------------------------------AREA Y PERIMETRO CUADRADO---------------------------------------------
 print ("Area y Perimetro de un Cuadrado") #Imprime un texto para el Usuario
 print("") #ESPACIO POR ESTETICA
 lado= float(input("Digita la medida de los lados del cuadrado: ")) #Ingresa datos de los lados del cuadrado

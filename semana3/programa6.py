@@ -1,6 +1,9 @@
 
 """
-Carlos Axel Carrillo Rocha 
+Carlos Axel Carrillo Rocha
+   Nombre. Axel CR
+   Fecha: 31/01/2023
+   Descripcion: Calcular el Area y Perimetro de triangulo
 """
 print ("Area y Perimetro de un Triangulo")
 
