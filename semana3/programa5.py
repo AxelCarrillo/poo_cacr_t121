@@ -1,4 +1,9 @@
-
+"""
+Carlos Axel Carrillo Rocha
+   Nombre. Axel CR
+   Fecha: 31/01/2023
+   Descripcion: Suma, Resta, Multiplicacion, Division, Potencia e imprime todo el proceso
+"""
 
 num1= input("Numero 1:")
 num2= 10

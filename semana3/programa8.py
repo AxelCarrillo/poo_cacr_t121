@@ -2,7 +2,7 @@
    programa7.py
    Nombre. Axel CR
    Fecha: 02/02/2023
-   Descripcion: codigo de if, else, elif
+   Descripcion: Anotaciones de codigo if, else, elif y Operaciones complejas y faciles
 """
 { #En este bloque evaluara cada if uno por uno
 if n1>n2: #Si n1 es mayor a n2 se realizara el codigo 1

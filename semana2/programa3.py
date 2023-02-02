@@ -2,8 +2,7 @@
    programa3.py
    Nombre. Axel CR
    Fecha: 24/01/2023
-   Descripcion: Comentarios Multilinea, Comentarios de una Linea, Concatenacion de cadenas y 
-   cadeana de caracteres
+   Descripcion: Suma, Multiplicacion y division y imprima todo el proceso
 """
 num1= 10
 num2= 5

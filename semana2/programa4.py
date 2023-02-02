@@ -2,8 +2,7 @@
    programa4.py
    Nombre. Axel CR
    Fecha: 26/01/2023
-   Descripcion: Comentarios Multilinea, Comentarios de una Linea, Concatenacion de cadenas y 
-   cadeana de caracteres
+   Descripcion: Suma 2 numero y imprime la suma y el resultado
 """
 
 num1=10
