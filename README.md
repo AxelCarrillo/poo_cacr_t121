@@ -13,5 +13,6 @@
 |7.|programa6.py|Calcular el Area y Perimetro de triangulo|
 |8.|programa7.py|Calcular el Area y Perimetro de un circulo y Cuadrado|
 |9.|programa8.py|Anotaciones de codigo if, else, elif y Operaciones complejas y faciles|
-|10.|programa9.py|Comparacion de 2 numeros y si son iguales que lo imprima|
+|10.|programa9.py|Comparacion de 2 numeros y si son iguales que lo imprima como None|
+|11.|programa10.py|11 Programas que hagan la misma funcion de Comparacion de 2 numeros y si son iguales que lo imprima como None|
 
